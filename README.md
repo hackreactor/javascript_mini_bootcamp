@@ -16,6 +16,10 @@ Each section consists of a lecture followed by a set of self-guided exercises. T
 
 No textbook is required for this workhop. All materials are included in this GitHub repo.
 
+## Slides
+
+The lesson slides for this workshop can be found [here](https://drive.google.com/open?id=1r9skMap9CD6NaO2wkj90UzQcEb3Hui1OYBH5Pb8_vxk).
+
 ## Technical requirements
 
 Laptop, Google Chrome browser and a text editor. If you do not have a text editor, we recommend Sublime Text, Atom or Visual Studio Code.

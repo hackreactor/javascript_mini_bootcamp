@@ -47,14 +47,14 @@ Before getting started, make sure that you have a JavaScript console open (like 
 5. There's an easy way to figure out how long a string is by adding `.length` to
    the end of it. Try this out in the console:
 
-  ```js
-  "hello".length;
-  "".length;
-  "John Doe".length;
-  ```
+   ```js
+   "hello".length;
+   "".length;
+   "John Doe".length;
+   ```
 
-  Write a function `sameLength` that accepts two strings as arguments, and
-  returns `true` if those strings have the same length, and `false` otherwise.
+   Write a function `sameLength` that accepts two strings as arguments, and
+   returns `true` if those strings have the same length, and `false` otherwise.
 
 6. Write a function `passwordLongEnough` that accepts a "password" as a
    parameter and returns `true` if that password is *long enough* -- you get to

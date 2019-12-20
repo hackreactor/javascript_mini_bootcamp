@@ -17,18 +17,18 @@ loop.
 
 3. Try the following at a console:
 
-  ```js
-  "the quick brown fox jumped over the lazy dog".split(" ");
-  "Hello, world!".split("")
-  "1,2,3,4,5,6".split(",")
-  ```
+   ```js
+   "the quick brown fox jumped over the lazy dog".split(" ");
+   "Hello, world!".split("")
+   "1,2,3,4,5,6".split(",")
+   ```
 
-  What is returned by `split` (You can read more about it
-  [here](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/split)),
-  and how does it work?
+   What is returned by `split` (You can read more about it
+   [here](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/split)),
+   and how does it work?
 
-  Use `split` to write a function `longestWord` that takes a string as an
-  argument and returns the longest word.
+   Use `split` to write a function `longestWord` that takes a string as an
+   argument and returns the longest word.
 
 4. Write a function `remove` that accepts an *array* and an *element*, and
    returns an array with all ocurrences of *element* removed.

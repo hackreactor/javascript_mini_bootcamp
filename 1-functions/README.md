@@ -81,23 +81,23 @@ Before getting started, make sure that you have a JavaScript console open (like 
 
 7. Complete the function `cube` that returns the cube of x:
 
-  ```js
-  function cube(x) {
-    // your code here
-  }
-  ```
+   ```js
+   function cube(x) {
+     // your code here
+   }
+   ```
 
 8. Complete the function `fullName` that should take two parameters, `firstName`
    and `lastName`, and returns the `firstName` and `lastName` concatenated
    together with a space in between.
 
-  ```js
-  // don't forget the parameters!
-  function fullName() {
-    // your code here
-  }
-  fullName("John", "Doe") // => "John Doe"
-  ```
+   ```js
+   // don't forget the parameters!
+   function fullName() {
+     // your code here
+   }
+   fullName("John", "Doe") // => "John Doe"
+   ```
 
 9. Write a function `average` that takes two numbers as input (parameters), and
    returns the average of those numbers.
@@ -152,13 +152,13 @@ Translate the rest of the geometric formulas found <a href="http://www.gbcnv.edu
     - *n*: compounding frequency
     - *t*: time
 
-  Write a function `futureValue` that can be used to calculate the *future value*
-  of a quantity of money using compound interest.
+   Write a function `futureValue` that can be used to calculate the *future value*
+   of a quantity of money using compound interest.
 
-  Use the function to calculate what the future value of $1700 (*P* = 1700)
-  deposited in a bank that pays an annual interest rate of 4.7% (*i* = 0.047),
-  compounded quarterly (*n* = 4) after 6 years (*t* = 6) (you can use `Math.pow`
-  to do exponentiation).
+   Use the function to calculate what the future value of $1700 (*P* = 1700)
+   deposited in a bank that pays an annual interest rate of 4.7% (*i* = 0.047),
+   compounded quarterly (*n* = 4) after 6 years (*t* = 6) (you can use
+   `Math.pow` to do exponentiation).
 
 2. Write a `power` function that accepts the parameters `base` and `exponent`
    and returns the result. Replace `square` and `cube` with the `power` function
